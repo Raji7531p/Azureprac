@@ -167,7 +167,7 @@
 				]
 			},
 			{
-				"name": "Customer",
+				"name": "Customers",
 				"type": "Copy",
 				"dependsOn": [
 					{
@@ -217,7 +217,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DelimitedText3",
+						"referenceName": "DelimitedText5",
 						"type": "DatasetReference"
 					}
 				],
