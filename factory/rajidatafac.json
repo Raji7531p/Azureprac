@@ -1,0 +1,9 @@
+{
+	"name": "rajidatafac",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eb9d33e6-3852-4733-9237-9e53781771e6",
+		"tenantId": "fe73a76d-dfa2-498a-8f07-a9d4d0e676b1"
+	}
+}
